@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  font-family: 'Fira Sans', sans-serif;  
+
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 100vh;
+  background-position: center;
+}
+
+code {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif,
+    monospace;
+}
